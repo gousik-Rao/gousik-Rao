@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gousik-Rao
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java softwate Development
+- 🌱 I’m currently learning Java software Development
 - 💞️ I’m looking to collaborate on development technologies
 - 📫 How to reach me -> LinkedIn DM
 
