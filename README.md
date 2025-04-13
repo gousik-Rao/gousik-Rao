@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java software Development
 - 💞️ I’m looking to collaborate on development technologies
 - 📫 How to reach me
--   -> LinkedIn DM: (https://www.linkedin.com/in/gousik-java-developer/)
+-   -> LinkedIn: (https://www.linkedin.com/in/gousik-java-developer/)
 -   -> Mail: gousikthason@gmail.com
 
 <!---
