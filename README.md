@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I’m a passionate backend developer and lifelong 
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/gousik-software-engineer)
+- Linkedin: [Gousik Rao N](https://www.linkedin.com/in/gousik-software-engineer)
 - 📧 Email: gousikthason@gmail.com
 
 ---
